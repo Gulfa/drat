@@ -1,7 +1,7 @@
 Package: HRHRpal
 Version: 2018.09.18
 Depends: R (>= 3.5.0)
-Suggests: testthat
+Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 16bec30ec72542e0a98f5d87e2c7e2cc
+MD5sum: 3c2c7bc2962d290fccfdcdfcb5103bad
 NeedsCompilation: no
