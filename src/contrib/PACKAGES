@@ -4,5 +4,5 @@ Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 4efcbd63767b95452912df42a12f314f
+MD5sum: a83802ace6e80a3ed8e2d294a99393a4
 NeedsCompilation: no
