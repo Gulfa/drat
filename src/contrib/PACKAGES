@@ -1,7 +1,8 @@
 Package: HRHRpal
 Version: 2018.09.18
 Depends: R (>= 3.5.0)
+Imports: data.table
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 3c2c7bc2962d290fccfdcdfcb5103bad
+MD5sum: 4efcbd63767b95452912df42a12f314f
 NeedsCompilation: no
