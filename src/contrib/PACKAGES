@@ -14,5 +14,5 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         jsonlite, zoo, RAWmisc
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: da92848b5b5facb63fce9f0486146de3
+MD5sum: 58e2892e6aad5af02db2626ce20091c8
 NeedsCompilation: no
