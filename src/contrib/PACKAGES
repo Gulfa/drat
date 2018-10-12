@@ -6,3 +6,13 @@ Suggests: testthat, knitr, rmarkdown
 License: GPL-3
 MD5sum: a83802ace6e80a3ed8e2d294a99393a4
 NeedsCompilation: no
+
+Package: sykdomspuls
+Version: 2018.10.12
+Depends: R (>= 3.4.0)
+Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
+        jsonlite, zoo, RAWmisc
+Suggests: testthat
+License: GPL-3
+MD5sum: c43eebc99868906c126a86958c227ce7
+NeedsCompilation: no
