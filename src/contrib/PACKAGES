@@ -45,3 +45,13 @@ Depends: R (>= 3.4.0)
 License: GPL-3
 MD5sum: 62d3736483a269607284631e3528dcff
 NeedsCompilation: no
+
+Package: sykdomspulspdf
+Version: 2018.10.16
+Depends: R (>= 3.4.0)
+Imports: devtools, testthat, data.table, lubridate, grDevices, ggplot2,
+        fhi
+Suggests: testthat
+License: GPL-3
+MD5sum: 491bdccfc32fcdf6f785fc3904e982cf
+NeedsCompilation: no
