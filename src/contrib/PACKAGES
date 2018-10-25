@@ -40,10 +40,10 @@ MD5sum: 075aeecce329199702c63d946335cda3
 NeedsCompilation: no
 
 Package: sykdomspulslog
-Version: 2018.10.16
+Version: 2018.10.25
 Depends: R (>= 3.4.0)
 License: GPL-3
-MD5sum: 62d3736483a269607284631e3528dcff
+MD5sum: cca074dfbb51a0afedfcf9bf6a360022
 NeedsCompilation: no
 
 Package: sykdomspulspdf
