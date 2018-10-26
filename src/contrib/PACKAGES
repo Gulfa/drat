@@ -4,9 +4,9 @@ Depends: R (>= 3.4.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, tinytex, uuid,
         processx, devtools, RAWmisc
-Suggests: testthat, knitr
+Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 15bce505123df1ca814f553411823024
+MD5sum: c000ff4c82431b44082061295fe87b3c
 NeedsCompilation: no
 
 Package: HRHRpal
