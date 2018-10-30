@@ -6,7 +6,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         processx, devtools, RAWmisc
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 255cfab5b553e4c06113e781ddbe7d31
+MD5sum: 6ee743359788ae2f639a832576fb69d4
 NeedsCompilation: no
 
 Package: HRHRpal
