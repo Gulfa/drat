@@ -25,7 +25,7 @@ Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
         stringr, ggplot2, processx, readxl, uuid
 Suggests: testthat
 License: GPL-3
-MD5sum: c7cb99d1b4a7d661dbca584933e5972d
+MD5sum: 6c2f27fe692b33641f22a1d8b6e135d1
 NeedsCompilation: no
 
 Package: normomo
