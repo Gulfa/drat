@@ -36,7 +36,7 @@ Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         fhi, RAWmisc, gridExtra, grDevices, stats, zip, openxlsx
 Suggests: testthat
 License: GPL-3
-MD5sum: b22fe1fb80e05a2c670f1e3a64471879
+MD5sum: 6d63a87ae1993653928eec0c751fcdd0
 NeedsCompilation: no
 
 Package: sykdomspuls
