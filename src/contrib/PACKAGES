@@ -19,13 +19,13 @@ MD5sum: a83802ace6e80a3ed8e2d294a99393a4
 NeedsCompilation: no
 
 Package: noispiah
-Version: 2018.11.01
+Version: 2018.11.02
 Depends: R (>= 3.4.0)
 Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
         stringr, ggplot2, processx, readxl, uuid
 Suggests: testthat
 License: GPL-3
-MD5sum: e49cd13acef7930235e4ddc42eeff8c9
+MD5sum: ac8f7eace8dc22fbb02faa53c4c62884
 NeedsCompilation: no
 
 Package: normomo
