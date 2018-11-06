@@ -54,7 +54,7 @@ Version: 2018.11.06
 Depends: R (>= 3.4.0)
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 4ca21b1f993fabb80e2e9d3d292029c7
+MD5sum: 2f31038fe100c56746fdd9ac52e251e1
 NeedsCompilation: no
 
 Package: sykdomspulspdf
