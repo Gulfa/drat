@@ -39,6 +39,17 @@ License: GPL-3
 MD5sum: 7d6ed68ffabb8f3119baca8a86aad1d1
 NeedsCompilation: no
 
+Package: RAWmisc
+Version: 2018.11.07
+Depends: R (>= 3.1.0)
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
+        broom, magrittr, lubridate, data.table, utils, processx, stats,
+        lmtest, MASS, uuid
+Suggests: testthat, rms
+License: GPL-3
+MD5sum: 9602099d838cfc006f948e28ee660af5
+NeedsCompilation: no
+
 Package: sykdomspuls
 Version: 2018.11.02
 Depends: R (>= 3.4.0)
