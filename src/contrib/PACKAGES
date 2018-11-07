@@ -50,11 +50,11 @@ MD5sum: 55837b0e5f36f41a98a3dcfdfdecb6b4
 NeedsCompilation: no
 
 Package: sykdomspulslog
-Version: 2018.11.06
+Version: 2018.11.07
 Depends: R (>= 3.4.0)
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 2f31038fe100c56746fdd9ac52e251e1
+MD5sum: 53b2133d3a99d03405550c0d80efd2d0
 NeedsCompilation: no
 
 Package: sykdomspulspdf
