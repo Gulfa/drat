@@ -64,5 +64,5 @@ Imports: devtools, testthat, data.table, lubridate, grDevices, ggplot2,
         fhi
 Suggests: testthat
 License: GPL-3
-MD5sum: dc9824739803bc87c3bdcf41b98cb239
+MD5sum: 48740bf3d9135441c5ddfcf532c267c4
 NeedsCompilation: no
