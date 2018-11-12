@@ -47,7 +47,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         lmtest, MASS, uuid, yaml, pkgdown
 Suggests: testthat, rms
 License: GPL-3
-MD5sum: 846f856cefb4a6ff758940b600086d00
+MD5sum: 8cdbe3cb1ad7785772ed207380533a33
 NeedsCompilation: no
 
 Package: sykdomspuls
