@@ -51,13 +51,13 @@ MD5sum: 8cdbe3cb1ad7785772ed207380533a33
 NeedsCompilation: no
 
 Package: sykdomspuls
-Version: 2018.11.12
+Version: 2018.11.13
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         jsonlite, zoo, RAWmisc
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 23b563f6247ff354bbb26a113dd74085
+MD5sum: db964a447a04225e74a8bb7982910c47
 NeedsCompilation: no
 
 Package: sykdomspulslog
