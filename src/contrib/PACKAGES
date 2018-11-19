@@ -1,12 +1,12 @@
 Package: fhi
-Version: 2018.11.14
+Version: 2018.11.19
 Depends: R (>= 3.4.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, tinytex, uuid,
-        processx, devtools, RAWmisc
+        processx, devtools, foreach, RAWmisc
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 8027543a3d0225d5c8f671424ba2b43c
+MD5sum: 4f988d7ca6dd272458d7ff3d4e246db6
 NeedsCompilation: no
 
 Package: HRHRpal
