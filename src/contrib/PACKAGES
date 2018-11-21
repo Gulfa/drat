@@ -50,6 +50,15 @@ License: GPL-3
 MD5sum: 8cdbe3cb1ad7785772ed207380533a33
 NeedsCompilation: no
 
+Package: smhb
+Version: 2018.11.21
+Depends: R (>= 3.4.0)
+Imports: ggplot2, flexdashboard, rmarkdown, shiny
+Suggests: testthat, knitr, usethis
+License: GPL-3
+MD5sum: e4198cfa48023e9a72215fbf631539cf
+NeedsCompilation: no
+
 Package: sykdomspuls
 Version: 2018.11.13
 Depends: R (>= 3.4.0)
