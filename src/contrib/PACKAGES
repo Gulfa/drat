@@ -56,7 +56,7 @@ Depends: R (>= 3.4.0)
 Imports: ggplot2, flexdashboard, rmarkdown, shiny
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: f7a82b48423487db45b3475ccae6c48f
+MD5sum: 848b2dfe56bba3c769520b411da28ffc
 NeedsCompilation: no
 
 Package: sykdomspuls
