@@ -12,10 +12,10 @@ NeedsCompilation: no
 Package: HRHRpal
 Version: 2018.09.18
 Depends: R (>= 3.5.0)
-Imports: data.table
+Imports: data.table, stringr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: a83802ace6e80a3ed8e2d294a99393a4
+MD5sum: 2a63b164c0f01cee43444d754a10fcd1
 NeedsCompilation: no
 
 Package: noispiah
