@@ -51,12 +51,12 @@ MD5sum: 8cdbe3cb1ad7785772ed207380533a33
 NeedsCompilation: no
 
 Package: smhb
-Version: 2018.11.21
+Version: 2018.12.07
 Depends: R (>= 3.4.0)
 Imports: ggplot2, flexdashboard, rmarkdown, shiny
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 5b958b12d226818ebd0a3cadd2148bc8
+MD5sum: 9ff9bbded1cbfa3f6f0dcd6a827e2cff
 NeedsCompilation: no
 
 Package: sykdomspuls
