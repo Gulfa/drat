@@ -49,14 +49,14 @@ MD5sum: 9ff9bbded1cbfa3f6f0dcd6a827e2cff
 NeedsCompilation: no
 
 Package: sykdomspuls
-Version: 2018.12.19
+Version: 2018.12.20
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         jsonlite, zoo, iterators, ggplot2, dplyr, pool, RMariaDB,
         plumber, RAWmisc
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: f68962dc196f3794ae3ce3b8e3b1636a
+MD5sum: 223ee17849937a0d286db0f923e9dc9d
 NeedsCompilation: no
 
 Package: sykdomspulslog
