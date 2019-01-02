@@ -56,7 +56,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         plumber, memoise, RAWmisc
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 859bcead7f843d108e5adfd95802f8e9
+MD5sum: f58c76869eb39e8775d9b3ed80b0b6c4
 NeedsCompilation: no
 
 Package: sykdomspulslog
