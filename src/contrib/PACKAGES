@@ -53,10 +53,10 @@ Version: 2019.01.04
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         jsonlite, zoo, iterators, ggplot2, dplyr, pool, RMariaDB,
-        plumber, memoise, RAWmisc
+        plumber, memoise, parallel, pbmcapply, RAWmisc
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: bf2536743969093a411d45ca2d58893c
+MD5sum: 80b25f367dd636663c67d3b064b55037
 NeedsCompilation: no
 
 Package: sykdomspulslog
