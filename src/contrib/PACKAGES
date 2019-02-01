@@ -1,11 +1,11 @@
 Package: commuter
-Version: 2019.01.31
+Version: 2019.02.01
 Depends: R (>= 3.4.0)
 Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
-        stringr, ggplot2, processx, readxl, uuid, withr, sykdomspuls
+        stringr, ggplot2, processx, readxl, uuid, withr, zoo
 Suggests: testthat
 License: GPL-3
-MD5sum: 5e8ab8f648eda12381dc7b06d76c311e
+MD5sum: 13741b92df293b12b928f95b2b82fe88
 NeedsCompilation: no
 
 Package: fhi
