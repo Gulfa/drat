@@ -9,14 +9,14 @@ MD5sum: 29650d34c0eed1823a929f3baa4929d1
 NeedsCompilation: no
 
 Package: fhi
-Version: 2019.02.03
+Version: 2019.2.21
 Depends: R (>= 3.4.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, tinytex, uuid,
-        processx, devtools, RAWmisc, zoo
+        processx, devtools, zoo
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 959ba7fbf4f5ac7c765977f5a3e2eab8
+MD5sum: c143e309dff85f80592ff2ccb835003d
 NeedsCompilation: no
 
 Package: HRHRpal
