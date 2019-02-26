@@ -78,11 +78,11 @@ MD5sum: 53b2133d3a99d03405550c0d80efd2d0
 NeedsCompilation: no
 
 Package: sykdomspulspdf
-Version: 2019.02.18
+Version: 2019.02.26
 Depends: R (>= 3.4.0)
 Imports: devtools, testthat, data.table, lubridate, grDevices, ggplot2,
         fhi
 Suggests: testthat
 License: GPL-3
-MD5sum: 98e0dcc3c8a244ecf2c1d9949f93036f
+MD5sum: 86336c7a6dc8b911c4cbf4bbe011f2d7
 NeedsCompilation: no
