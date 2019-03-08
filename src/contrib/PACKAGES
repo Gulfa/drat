@@ -19,6 +19,15 @@ License: GPL-3
 MD5sum: 61195afb91a9ae35d6ff4d5090a6c41d
 NeedsCompilation: no
 
+Package: fhiplot
+Version: 2019.3.8
+Depends: R (>= 3.3.0)
+Imports: ggplot2
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: bf9a312122938c5886b016869361b3c1
+NeedsCompilation: no
+
 Package: HRHRpal
 Version: 2018.09.18
 Depends: R (>= 3.5.0)
