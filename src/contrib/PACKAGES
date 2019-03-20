@@ -25,9 +25,9 @@ Depends: R (>= 3.3.0)
 Imports: data.table, stringr, glue, lubridate, readxl, zoo, crayon, fs,
         utils
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
-        mapproj, ggplot2
+        rgeos, mapproj, ggplot2
 License: GPL-3
-MD5sum: bb188293067b18418bd0da7ff89ca9ba
+MD5sum: f132bcdad10a7924e4d16e3459be961b
 NeedsCompilation: no
 
 Package: fhiplot
