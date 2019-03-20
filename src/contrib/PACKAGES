@@ -19,6 +19,17 @@ License: GPL-3
 MD5sum: eaa44f577c0e73f66399f8122c2748b3
 NeedsCompilation: no
 
+Package: fhidata
+Version: 2019.3.20
+Depends: R (>= 3.3.0)
+Imports: data.table, stringr, glue, lubridate, readxl, zoo, crayon, fs,
+        utils
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        mapproj, ggplot2
+License: GPL-3
+MD5sum: bb188293067b18418bd0da7ff89ca9ba
+NeedsCompilation: no
+
 Package: fhiplot
 Version: 2019.3.12
 Depends: R (>= 3.3.0)
