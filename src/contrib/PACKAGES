@@ -36,7 +36,7 @@ Depends: R (>= 3.3.0)
 Imports: ggplot2, data.table, stringr, glue
 Suggests: testthat, knitr, rmarkdown, fhidata
 License: GPL-3
-MD5sum: 3f62f7a78d2cf478da040c078e4c3ec5
+MD5sum: d5388019d66e34a1e369c6c3720aca8e
 NeedsCompilation: no
 
 Package: HRHRpal
