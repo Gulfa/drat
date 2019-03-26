@@ -20,14 +20,14 @@ MD5sum: eaa44f577c0e73f66399f8122c2748b3
 NeedsCompilation: no
 
 Package: fhidata
-Version: 2019.3.20
+Version: 2019.3.26
 Depends: R (>= 3.3.0)
-Imports: data.table, stringr, glue, lubridate, readxl, zoo, crayon, fs,
-        utils
+Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
-        rgeos, mapproj, ggplot2
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils
 License: GPL-3
-MD5sum: f132bcdad10a7924e4d16e3459be961b
+MD5sum: 800909af287b7817c39d9432c2ef58cd
 NeedsCompilation: no
 
 Package: fhiplot
