@@ -84,9 +84,9 @@ Depends: R (>= 3.4.0)
 Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, fhidata,
         stringr, readxl, zoo
 LinkingTo: Rcpp, RcppProgress
-Suggests: testthat, knitr, ggplot2
+Suggests: testthat, knitr, ggplot2, glue
 License: GPL-3
-MD5sum: fc1ff36c946f009b0ad82f43d8748e27
+MD5sum: 1626a6d83a3607f0972648be74b029f1
 NeedsCompilation: yes
 
 Package: sykdomspuls
