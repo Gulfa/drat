@@ -97,7 +97,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         plumber, memoise, parallel, pbmcapply, RAWmisc, cowplot
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: b8ed902ef2e2aa1e4c9d0d166bc5a219
+MD5sum: 42871ff970e8338788fb51967d76a55c
 NeedsCompilation: no
 
 Package: sykdomspulslog
