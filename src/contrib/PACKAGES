@@ -14,7 +14,7 @@ Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 63cb9a110622c02359044a8c9c26cbf1
+MD5sum: d7b9567422d60c71e0da7110dfe6e99d
 NeedsCompilation: no
 
 Package: fhi
