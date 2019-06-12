@@ -8,6 +8,15 @@ License: GPL-3
 MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
+Package: fd
+Version: 2019.6.12
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 63cb9a110622c02359044a8c9c26cbf1
+NeedsCompilation: no
+
 Package: fhi
 Version: 2019.3.27
 Depends: R (>= 3.3.0)
