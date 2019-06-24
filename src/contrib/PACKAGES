@@ -41,12 +41,12 @@ MD5sum: 7423d15a7ff5297dd18976e01b8bf50f
 NeedsCompilation: no
 
 Package: fhiplot
-Version: 2019.6.14
+Version: 2019.6.24
 Depends: R (>= 3.3.0)
 Imports: ggplot2, data.table, stringr, glue
-Suggests: testthat, knitr, rmarkdown, fhidata, scales, lubridate
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon
 License: GPL-3
-MD5sum: 179ca05b9a4bfd021e19b1d55aff285c
+MD5sum: 15411ea25ab7df4368ea7604a1b926cc
 NeedsCompilation: no
 
 Package: HRHRpal
