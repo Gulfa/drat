@@ -15,7 +15,7 @@ Imports: data.table, glue, dbplyr, rlang, stringr, DBI, RMariaDB,
         methods
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: f36545077c5314459d4125d12a8e9b0d
+MD5sum: c841aa20c4a89ab0595d240446908e72
 NeedsCompilation: no
 
 Package: fhi
