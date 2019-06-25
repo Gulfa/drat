@@ -79,6 +79,15 @@ License: GPL-3
 MD5sum: 181ffd0665513a870ee553687912b0a3
 NeedsCompilation: no
 
+Package: sikkersone
+Version: 2019.6.25
+Depends: R (>= 3.5.0)
+Imports: data.table, RODBC, utils
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 54d731d8255335a2453c0a4f0ed19609
+NeedsCompilation: no
+
 Package: smhb
 Version: 2018.12.07
 Depends: R (>= 3.4.0)
