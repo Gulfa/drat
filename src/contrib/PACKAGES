@@ -14,7 +14,7 @@ Depends: R (>= 3.5.0)
 Imports: data.table, glue, dbplyr, rlang, stringr, DBI, methods, R6
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 8d92b093f63b7ddbe1be494f731dde9a
+MD5sum: ef0268e4ee2e32965a7f51de52fcc1df
 NeedsCompilation: no
 
 Package: fhi
