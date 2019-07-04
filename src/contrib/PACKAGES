@@ -12,10 +12,10 @@ Package: fd
 Version: 2019.7.4
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
-        magrittr, stats, fs, odbc, uuid
+        magrittr, stats, fs, odbc, uuid, devtools
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 29a835c570d57838722a994ca2e0254d
+MD5sum: 3bcf16d53deca13560f4afdec66d7a03
 NeedsCompilation: no
 
 Package: fhi
