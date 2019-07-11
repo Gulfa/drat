@@ -9,13 +9,13 @@ MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
 Package: fd
-Version: 2019.7.10
+Version: 2019.7.11
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 61dd98f6cf5ef4d119054145894a04e3
+MD5sum: d036329da4a401aa835034e81dfa6b33
 NeedsCompilation: no
 
 Package: fhi
