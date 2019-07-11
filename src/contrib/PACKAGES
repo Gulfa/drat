@@ -15,7 +15,7 @@ Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: c46d4396b18fb511ae0b631bb5191a06
+MD5sum: c6392d16de7b2c3ead904c021bff6ed6
 NeedsCompilation: no
 
 Package: fhi
