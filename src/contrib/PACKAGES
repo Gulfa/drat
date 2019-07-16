@@ -88,6 +88,14 @@ License: GPL-3
 MD5sum: 54d731d8255335a2453c0a4f0ed19609
 NeedsCompilation: no
 
+Package: sm
+Version: 2.2-5.6
+Depends: R (>= 3.1.0)
+Suggests: rgl, misc3d, akima, gam, tkrplot, rpanel (>= 1.1-4), tcltk
+License: GPL (>= 2)
+MD5sum: 9852ac3fd6a2824847184142cca7141d
+NeedsCompilation: yes
+
 Package: smhb
 Version: 2018.12.07
 Depends: R (>= 3.4.0)
