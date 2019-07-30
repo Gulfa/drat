@@ -37,7 +37,7 @@ Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
         crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2
 License: GPL-3
-MD5sum: e34404a554a84147644a539a1d9aef8d
+MD5sum: 05db8af93f4e0e2e229d55f9fbceb5ef
 NeedsCompilation: no
 
 Package: fhiplot
