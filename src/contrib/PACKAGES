@@ -70,15 +70,15 @@ MD5sum: 1ad563e72e82afae517f0d166ef03434
 NeedsCompilation: no
 
 Package: normomo
-Version: 2019.07.30
+Version: 2019.07.31
 Depends: R (>= 3.4.0)
 Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
         fhi, RAWmisc, gridExtra, grDevices, stats, zip, openxlsx, R6,
-        fd, fhidata, fhiplot
+        fd, fhidata, fhiplot, blastula, dplyr, glue
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 85a877d15608255085e50bd2b1d19731
+MD5sum: 73bd36d83911a5061ee96f0feca4d727
 NeedsCompilation: no
 
 Package: sikkersone
