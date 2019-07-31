@@ -27,7 +27,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         processx, devtools, zoo, utils, fhidata, fs, glue
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 70460019099614977be17070b61b4331
+MD5sum: 7f3162e6eb420b0c247a17243b3f9e1f
 NeedsCompilation: no
 
 Package: fhidata
