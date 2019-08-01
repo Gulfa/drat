@@ -75,10 +75,10 @@ Depends: R (>= 3.4.0)
 Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
         fhi, RAWmisc, gridExtra, grDevices, stats, zip, openxlsx, R6,
-        fd, fhidata, fhiplot, blastula, dplyr, glue, emayili
+        fd, fhidata, fhiplot, dplyr, glue, httr
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 1916d803c887f25b16d2fa955aa0db28
+MD5sum: 4b3cf8cadda6948a48b38aea15663b73
 NeedsCompilation: no
 
 Package: sikkersone
