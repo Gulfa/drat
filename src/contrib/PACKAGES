@@ -128,7 +128,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         huxtable, reshape2, rstanarm
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: 794cacd3471dadc3eb578c0b8a9949e2
+MD5sum: 6342bfdfdd66dafbbe1dfb021a21f8ed
 NeedsCompilation: no
 
 Package: sykdomspulslog
