@@ -13,10 +13,10 @@ Version: 2019.8.1
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate, fhi,
-        fhidata, ncdf4, reshape2, zoo, readxl
+        fhidata, ncdf4, reshape2, zoo, readxl, emayili
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 2e9762ba49891f685ee6b47e520a46a0
+MD5sum: ab78fb5b6ab82d2f426817dd0991213b
 NeedsCompilation: no
 
 Package: fhi
