@@ -16,7 +16,7 @@ Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         fhidata, ncdf4, reshape2, zoo, readxl, httr
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: f6b5ae81885f9921deca3587168fd766
+MD5sum: 793b8e3ab4f56374358ff2c9a517dbee
 NeedsCompilation: no
 
 Package: fhi
