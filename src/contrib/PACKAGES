@@ -78,7 +78,7 @@ Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         fd, fhidata, fhiplot, dplyr, glue, httr
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 4b3cf8cadda6948a48b38aea15663b73
+MD5sum: 04d9282a8b8ea7d17d775773cc018408
 NeedsCompilation: no
 
 Package: sikkersone
