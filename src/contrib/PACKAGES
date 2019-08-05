@@ -108,14 +108,14 @@ MD5sum: 9ff9bbded1cbfa3f6f0dcd6a827e2cff
 NeedsCompilation: no
 
 Package: spread
-Version: 2019.8.2
+Version: 2019.8.5
 Depends: R (>= 3.5.0)
 Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, fhidata,
         stringr, readxl, zoo
 LinkingTo: Rcpp, RcppProgress
-Suggests: testthat, knitr, ggplot2, glue
+Suggests: testthat, knitr, ggplot2, glue, rmarkdown
 License: GPL-3
-MD5sum: 99a7caf2491e9f42f2ef307c3c57fc4b
+MD5sum: 6db27d6fdd6de60d1d9043ef74b6022c
 NeedsCompilation: yes
 
 Package: sykdomspuls
