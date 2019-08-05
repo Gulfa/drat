@@ -119,7 +119,7 @@ MD5sum: 99a7caf2491e9f42f2ef307c3c57fc4b
 NeedsCompilation: yes
 
 Package: sykdomspuls
-Version: 2019.08.03
+Version: 2019.08.05
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         fhiplot, httr, jsonlite, zoo, iterators, ggplot2, ggrepel,
@@ -128,7 +128,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         huxtable, reshape2, rstanarm
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: 3df123e2246a7822209a1532b8e3f91e
+MD5sum: 9ac8f4f0923a90abbcab51bac09e15bc
 NeedsCompilation: no
 
 Package: sykdomspulslog
