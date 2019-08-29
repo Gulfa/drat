@@ -146,5 +146,5 @@ Imports: devtools, testthat, data.table, lubridate, grDevices, ggplot2,
         fhi, fd, fhiplot, glue, lemon
 Suggests: testthat
 License: GPL-3
-MD5sum: 026358861215294072d273e9363b3b6d
+MD5sum: de702386af873de164f1b73b2ff9f54e
 NeedsCompilation: no
