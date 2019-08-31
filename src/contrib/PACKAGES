@@ -44,10 +44,10 @@ NeedsCompilation: no
 Package: fhiplot
 Version: 2019.8.31
 Depends: R (>= 3.3.0)
-Imports: ggplot2, data.table, stringr, glue, scales
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
-MD5sum: 10e4a2df6bc2c13b963a159710188682
+MD5sum: abf3bb7bd94b1d78094f50cbdd7b8fc3
 NeedsCompilation: no
 
 Package: HRHRpal
