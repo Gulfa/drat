@@ -47,7 +47,7 @@ Depends: R (>= 3.3.0)
 Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
-MD5sum: abf3bb7bd94b1d78094f50cbdd7b8fc3
+MD5sum: 869dd015a19063e8440a407e4105fc5b
 NeedsCompilation: no
 
 Package: HRHRpal
