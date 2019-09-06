@@ -40,14 +40,14 @@ MD5sum: 7bc13e61b56782987b930e37a8c89890
 NeedsCompilation: no
 
 Package: fhidata
-Version: 2019.8.29
+Version: 2019.9.6
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
         crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2
 License: GPL-3
-MD5sum: 0e3c19ebd366967457eda99285048eeb
+MD5sum: 0a3012721208aa5342ded3778709a955
 NeedsCompilation: no
 
 Package: fhiplot
