@@ -1,3 +1,12 @@
+Package: attrib
+Version: 2019.9.6
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 7ec06e1b5fc64a5f61c3df515a7a1e61
+NeedsCompilation: no
+
 Package: commuter
 Version: 2019.04.10
 Depends: R (>= 3.4.0)
