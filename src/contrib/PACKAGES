@@ -1,3 +1,12 @@
+Package: attrib
+Version: 2019.9.7
+Depends: R (>= 3.5.0)
+Imports: data.table, glue, pbs, dlnm, FluMoDL
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 587c3af314d0e5c7a4b325629ecc8aa4
+NeedsCompilation: no
+
 Package: commuter
 Version: 2019.04.10
 Depends: R (>= 3.4.0)
@@ -9,45 +18,45 @@ MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
 Package: fd
-Version: 2019.8.8
+Version: 2019.8.27
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate, fhi,
         fhidata, ncdf4, reshape2, zoo, readxl, httr
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 0052f530b6472c67033a4c6f6065937d
+MD5sum: 9bb35b491cee365a00a6cf93ca2b5fac
 NeedsCompilation: no
 
 Package: fhi
-Version: 2019.8.8
+Version: 2019.8.31
 Depends: R (>= 3.5.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, tinytex, uuid,
         processx, devtools, zoo, utils, fhidata, fs, glue
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: 44ded96f6dec40067289c038ac030406
+MD5sum: 7bc13e61b56782987b930e37a8c89890
 NeedsCompilation: no
 
 Package: fhidata
-Version: 2019.7.30
+Version: 2019.9.6
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
         crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2
 License: GPL-3
-MD5sum: 05db8af93f4e0e2e229d55f9fbceb5ef
+MD5sum: 0a3012721208aa5342ded3778709a955
 NeedsCompilation: no
 
 Package: fhiplot
-Version: 2019.7.30
+Version: 2019.8.31
 Depends: R (>= 3.3.0)
-Imports: ggplot2, data.table, stringr, glue, scales
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
-MD5sum: 61d009c5ce4ac5195a30dac84e995d66
+MD5sum: 869dd015a19063e8440a407e4105fc5b
 NeedsCompilation: no
 
 Package: HRHRpal
@@ -70,7 +79,7 @@ MD5sum: 1ad563e72e82afae517f0d166ef03434
 NeedsCompilation: no
 
 Package: normomo
-Version: 2019.08.06
+Version: 2019.08.19
 Depends: R (>= 3.4.0)
 Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
@@ -78,7 +87,7 @@ Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         fd, fhidata, fhiplot, dplyr, glue, httr
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 166c06628c4ba9557b8565ddbcb07e1f
+MD5sum: fad0d3b0de7941fa72da0ba06858568c
 NeedsCompilation: no
 
 Package: sikkersone
@@ -119,7 +128,7 @@ MD5sum: b01030278cb395b1d4320f38f3c1f823
 NeedsCompilation: yes
 
 Package: sykdomspuls
-Version: 2019.08.14
+Version: 2019.08.28
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         fhiplot, httr, jsonlite, zoo, iterators, ggplot2, ggrepel,
@@ -128,7 +137,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         huxtable, reshape2, rstanarm, fs
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: 59d9325c975d7b889457c33d93132442
+MD5sum: 7a3e03992cfb2ede92fe55cd44c01b92
 NeedsCompilation: no
 
 Package: sykdomspulslog
@@ -140,11 +149,11 @@ MD5sum: 53b2133d3a99d03405550c0d80efd2d0
 NeedsCompilation: no
 
 Package: sykdomspulspdf
-Version: 2019.07.01
+Version: 2019.08.30
 Depends: R (>= 3.4.0)
 Imports: devtools, testthat, data.table, lubridate, grDevices, ggplot2,
-        fhi
+        fhi, fd, fhiplot, glue, lemon
 Suggests: testthat
 License: GPL-3
-MD5sum: 17400bb2cf715920fa9ef318ee4bf848
+MD5sum: f581cebb4a3c2991331184f7d6907abb
 NeedsCompilation: no
