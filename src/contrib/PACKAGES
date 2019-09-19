@@ -79,7 +79,7 @@ MD5sum: 1ad563e72e82afae517f0d166ef03434
 NeedsCompilation: no
 
 Package: normomo
-Version: 2019.09.17
+Version: 2019.09.19
 Depends: R (>= 3.4.0)
 Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
@@ -87,7 +87,7 @@ Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         fd, fs, fhidata, fhiplot, dplyr, glue, httr, huxtable
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 2b0a37df71c0b1492c2bc561380648aa
+MD5sum: 8be5416695350048e8c681c99e48ab59
 NeedsCompilation: no
 
 Package: sikkersone
