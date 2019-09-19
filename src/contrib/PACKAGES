@@ -157,3 +157,13 @@ Suggests: testthat
 License: GPL-3
 MD5sum: f581cebb4a3c2991331184f7d6907abb
 NeedsCompilation: no
+
+Package: ui
+Version: 2019.09.19
+Depends: R (>= 3.5.0)
+Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
+        fhiplot, fs, glue, gridExtra, huxtable
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 6117c59ba583edb127419edbd5d90c90
+NeedsCompilation: no
