@@ -134,10 +134,10 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         fhiplot, httr, jsonlite, zoo, iterators, ggplot2, ggrepel,
         dplyr, pool, RMariaDB, plumber, memoise, parallel, RAWmisc,
         cowplot, fd, R6, pbapply, magrittr, DBI, odbc, uuid, glue,
-        huxtable, reshape2, rstanarm, fs
+        huxtable, reshape2, rstanarm, fs, fancycut
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: 3589078810632b1e69c80351abee2b14
+MD5sum: f54746292aae5851f7422808e6f09087
 NeedsCompilation: no
 
 Package: sykdomspulslog
