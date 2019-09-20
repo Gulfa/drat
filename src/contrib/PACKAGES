@@ -128,16 +128,17 @@ MD5sum: b01030278cb395b1d4320f38f3c1f823
 NeedsCompilation: yes
 
 Package: sykdomspuls
-Version: 2019.09.19
+Version: 2019.09.20
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         fhiplot, httr, jsonlite, zoo, iterators, ggplot2, ggrepel,
         dplyr, pool, RMariaDB, plumber, memoise, parallel, RAWmisc,
         cowplot, fd, R6, pbapply, magrittr, DBI, odbc, uuid, glue,
-        huxtable, reshape2, rstanarm, fs, fancycut
+        huxtable, reshape2, rstanarm, fs, asbio, samplingbook, ggpubr,
+        xlsx
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: f54746292aae5851f7422808e6f09087
+MD5sum: 5fa7f2e8bc37beab8b44d459270b6de8
 NeedsCompilation: no
 
 Package: sykdomspulslog
