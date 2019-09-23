@@ -166,5 +166,5 @@ Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
         fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 138872662ddfbbfa5087c4bd6efa2165
+MD5sum: a1a3ad4e76683f153f4ebcf400db220d
 NeedsCompilation: no
