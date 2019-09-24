@@ -163,8 +163,9 @@ Package: ui
 Version: 2019.09.24
 Depends: R (>= 3.5.0)
 Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
-        fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls
+        fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls,
+        ggplot2, readxl, stringr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 5f2e215beb0719deadaeea88b3237c0d
+MD5sum: f5f766329322e05a592b6a0ea48b020d
 NeedsCompilation: no
