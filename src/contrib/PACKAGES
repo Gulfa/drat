@@ -164,8 +164,9 @@ Version: 2019.09.30
 Depends: R (>= 3.5.0)
 Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
         fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls,
-        ggplot2, readxl, stringr
+        ggplot2, readxl, stringr, grDevices, cowplot, ggpubr,
+        lubridate, xlsx
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: b1b104f612ac972935fd3f1db2e5548f
+MD5sum: f340aa17d8d383926c56ff68a042a4e8
 NeedsCompilation: no
