@@ -26,7 +26,7 @@ Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         xml2, utils
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: f333484486fac133f058b66361dcdf65
+MD5sum: 961da3cabebc9789ceb435ed0146bbc7
 NeedsCompilation: no
 
 Package: fhi
