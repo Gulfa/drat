@@ -22,11 +22,10 @@ Version: 2019.10.01
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate, fhi,
-        fhidata, ncdf4, reshape2, zoo, readxl, openxlsx, httr, withr,
-        xml2, utils
+        fhidata, ncdf4, reshape2, zoo, readxl, httr, withr, xml2, utils
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: 961da3cabebc9789ceb435ed0146bbc7
+MD5sum: b48fda4cf3c3ec4d1d605f6f90a8497b
 NeedsCompilation: no
 
 Package: fhi
