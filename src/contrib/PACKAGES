@@ -4,7 +4,7 @@ Depends: R (>= 3.5.0)
 Imports: data.table, glue, pbs, dlnm, fhi, mvmeta, tsModel
 Suggests: testthat, knitr, rmarkdown, FluMoDL
 License: GPL-3
-MD5sum: 36d6d040d715f12516fb8423486d6a0b
+MD5sum: 4a23ca7d7973b45118d8a9492eddb339
 NeedsCompilation: no
 
 Package: commuter
