@@ -18,14 +18,15 @@ MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
 Package: fd
-Version: 2019.10.02
+Version: 2019.10.03
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate, fhi,
-        fhidata, ncdf4, reshape2, zoo, readxl, httr, withr, xml2, utils
+        fhidata, ncdf4, reshape2, zoo, readxl, httr, withr, xml2,
+        utils, lme4
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: 4241e22149a9d29d6a4ba7656cf2e290
+MD5sum: a42e6d14ad0df6e7d58fcf3e0ee35046
 NeedsCompilation: no
 
 Package: fhi
