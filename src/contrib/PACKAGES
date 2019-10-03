@@ -1,10 +1,10 @@
 Package: attrib
-Version: 2019.9.7
+Version: 2019.10.3
 Depends: R (>= 3.5.0)
-Imports: data.table, glue, pbs, dlnm, FluMoDL
-Suggests: testthat, knitr, rmarkdown
+Imports: data.table, glue, pbs, dlnm, fhi, mvmeta, tsModel
+Suggests: testthat, knitr, rmarkdown, FluMoDL
 License: GPL-3
-MD5sum: 587c3af314d0e5c7a4b325629ecc8aa4
+MD5sum: 36d6d040d715f12516fb8423486d6a0b
 NeedsCompilation: no
 
 Package: commuter
