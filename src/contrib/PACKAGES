@@ -28,7 +28,7 @@ MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
 Package: fd
-Version: 2019.10.03
+Version: 2019.10.04
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate, fhi,
@@ -36,7 +36,7 @@ Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         utils, lme4
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: 73131e50149684272b1ca3759488cd5a
+MD5sum: 0954e1da246c001990223b082448961d
 NeedsCompilation: no
 
 Package: fhi
