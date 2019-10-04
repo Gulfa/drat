@@ -7,6 +7,16 @@ License: GPL-3
 MD5sum: 2d89efe6ac3b664b73952b6dc0e71586
 NeedsCompilation: no
 
+Package: brain
+Version: 2019.10.04
+Depends: R (>= 3.4.0)
+Imports: data.table, R6, fd, fhidata, attrib, ggplot2, magrittr, dplyr,
+        fhi, glue, zoo
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: b2773731dd3bf9e09ba8506fe15831e6
+NeedsCompilation: no
+
 Package: commuter
 Version: 2019.04.10
 Depends: R (>= 3.4.0)
