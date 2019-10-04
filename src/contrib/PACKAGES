@@ -179,5 +179,5 @@ Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
         lubridate, xlsx
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: d8bd3362e9071a1b06429ff333af43a8
+MD5sum: 55b08f4e6f1b95124c100e46ec74a919
 NeedsCompilation: no
