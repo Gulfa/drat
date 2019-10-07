@@ -33,10 +33,10 @@ Depends: R (>= 3.5.0)
 Imports: data.table, glue, dplyr, rlang, stringr, DBI, methods, R6,
         magrittr, stats, fs, odbc, uuid, devtools, lubridate, fhi,
         fhidata, ncdf4, reshape2, zoo, readxl, httr, withr, xml2,
-        utils, lme4
+        utils, processx, lme4
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: 01e0ad80b979b20d79988305d29c10bc
+MD5sum: e962c5455a5553847bf0bf72da6125f2
 NeedsCompilation: no
 
 Package: fhi
