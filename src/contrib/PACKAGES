@@ -171,7 +171,7 @@ MD5sum: 00d6a7cb47315f81ee696882344380e8
 NeedsCompilation: no
 
 Package: ui
-Version: 2019.10.07
+Version: 2019.10.08
 Depends: R (>= 3.5.0)
 Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
         fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls,
@@ -179,5 +179,5 @@ Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
         lubridate, xlsx
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 2c3da88254adb3eaf203c1f37b7080bc
+MD5sum: ddf63f9de7dbb4977b24da1eaf24b0c0
 NeedsCompilation: no
