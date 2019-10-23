@@ -40,14 +40,14 @@ MD5sum: 4b5afa8a821b6c777260327da2f8c16b
 NeedsCompilation: no
 
 Package: fhi
-Version: 2019.10.1
+Version: 2019.10.23
 Depends: R (>= 3.5.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, tinytex, uuid,
         processx, devtools, zoo, utils, fhidata, fs, glue
 Suggests: testthat, knitr, usethis
 License: GPL-3
-MD5sum: fc035f04e3015b45e891807f55c3d7eb
+MD5sum: 823ac1ce56eb9a8931c04388ff97022b
 NeedsCompilation: no
 
 Package: fhidata
