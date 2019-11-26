@@ -79,6 +79,15 @@ License: GPL-3
 MD5sum: 2a63b164c0f01cee43444d754a10fcd1
 NeedsCompilation: no
 
+Package: municipdata
+Version: 2019.11.26
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 90c841649b9f4698b6f1ef59f0c8a5af
+NeedsCompilation: no
+
 Package: noispiah
 Version: 2018.11.02
 Depends: R (>= 3.4.0)
