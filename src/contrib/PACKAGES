@@ -71,6 +71,15 @@ License: GPL-3
 MD5sum: 52b01bcf671b72500682dee563700378
 NeedsCompilation: no
 
+Package: flumomo
+Version: 2019.12.4
+Depends: R (>= 3.5.0)
+Imports: data.table, ISOweek, utils, stats
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: d40ea7921a4e5afc5a6c03e098ea01ad
+NeedsCompilation: no
+
 Package: HRHRpal
 Version: 2018.09.18
 Depends: R (>= 3.5.0)
