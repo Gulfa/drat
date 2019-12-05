@@ -11,10 +11,11 @@ Package: brain
 Version: 2019.12.05
 Depends: R (>= 3.4.0)
 Imports: data.table, R6, fd, fhidata, attrib, ggplot2, magrittr, dplyr,
-        fhi, glue, zoo, lubridate
+        fhi, glue, zoo, lubridate, FluMoDL, fancycut, flumomo, readxl,
+        stringr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 7933f970d0beef24a615ba15c7201160
+MD5sum: f4ca2fed93c8934bb8596ba9663fd156
 NeedsCompilation: no
 
 Package: commuter
