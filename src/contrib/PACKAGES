@@ -52,7 +52,7 @@ MD5sum: 823ac1ce56eb9a8931c04388ff97022b
 NeedsCompilation: no
 
 Package: fhidata
-Version: 2019.12.4
+Version: 2019.12.5
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
@@ -60,7 +60,7 @@ Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2, sf,
         methods
 License: GPL-3
-MD5sum: 29dd0919bc642f656fcf33c9a53635c1
+MD5sum: a3a38c8f5fd9a566f06a8f97fdde9048
 NeedsCompilation: no
 
 Package: fhiplot
