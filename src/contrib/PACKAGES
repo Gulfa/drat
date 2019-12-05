@@ -169,7 +169,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         xlsx, RODBC
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: 0fed8f7750fb240a2d056539c7c97d6a
+MD5sum: f3df835914e71ef7edf294e33b3ce05b
 NeedsCompilation: no
 
 Package: sykdomspulslog
