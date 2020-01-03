@@ -121,6 +121,16 @@ License: GPL-3
 MD5sum: 737b61c50b231b229f5afd48774e5650
 NeedsCompilation: no
 
+Package: plnr
+Version: 2020.1.3
+Depends: R (>= 3.3.0)
+Imports: data.table, methods, R6, fhi, parallel, future, future.callr,
+        future.apply
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 3947696cf98c07db14db8ee6caa28aff
+NeedsCompilation: no
+
 Package: sikkersone
 Version: 2019.6.25
 Depends: R (>= 3.5.0)
