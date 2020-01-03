@@ -15,7 +15,7 @@ Imports: data.table, R6, fd, fhidata, attrib, ggplot2, magrittr, dplyr,
         stringr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: b0c7ade6a9ffcd070441083cbe90d907
+MD5sum: b4cb69302e1bf2931a17c65ef261bed0
 NeedsCompilation: no
 
 Package: commuter
