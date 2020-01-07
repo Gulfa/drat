@@ -175,7 +175,7 @@ Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, progress, RODBC, glue, fs
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 4a4b24357fac8efd431646f0630ce2b8
+MD5sum: c2a9d31c689d694e49586d78f8dd0f7a
 NeedsCompilation: no
 
 Package: sykdomspuls
