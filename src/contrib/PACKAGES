@@ -175,7 +175,7 @@ Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, progress, RODBC, glue, fs
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 10ff926f2ba4a95b1914a41021ea4442
+MD5sum: 4467391947492dd63d5704783f6ba786
 NeedsCompilation: no
 
 Package: spulswin
