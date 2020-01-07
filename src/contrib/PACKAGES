@@ -169,6 +169,15 @@ License: GPL-3
 MD5sum: b01030278cb395b1d4320f38f3c1f823
 NeedsCompilation: yes
 
+Package: spulsconnect
+Version: 2020.1.7
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, progress, RODBC, glue, fs
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 2e47b450ce0fb14fbd77d3d386153b6b
+NeedsCompilation: no
+
 Package: spulswin
 Version: 2020.1.7
 Depends: R (>= 3.5.0)
