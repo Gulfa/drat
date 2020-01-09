@@ -100,14 +100,14 @@ MD5sum: 90c841649b9f4698b6f1ef59f0c8a5af
 NeedsCompilation: no
 
 Package: noispiah
-Version: 2020.01.06
+Version: 2020.01.09
 Depends: R (>= 3.4.0)
 Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
         stringr, ggplot2, processx, readxl, uuid, crayon, glue, lemon,
         scales, fhiplot, R6, plnr, dplyr, fd, fhidata, fs
 Suggests: testthat
 License: GPL-3
-MD5sum: 7db7ee30f841e157aba905a6fc96a7b8
+MD5sum: d40b4bb1baf8a4c4822408524b52b7b6
 NeedsCompilation: no
 
 Package: normomo
