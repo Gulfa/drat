@@ -107,7 +107,7 @@ Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
         scales, fhiplot, R6, plnr, dplyr, fd, fhidata, fs
 Suggests: testthat
 License: GPL-3
-MD5sum: d40b4bb1baf8a4c4822408524b52b7b6
+MD5sum: e09ac3171a28651230f5148fb6780de9
 NeedsCompilation: no
 
 Package: normomo
