@@ -129,7 +129,7 @@ Imports: data.table, methods, R6, fhi, parallel, future, future.callr,
         future.apply
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 49401f64eadb6eed5056b548df255501
+MD5sum: eaa3ca15c8eab88873456ea45a3ecb2c
 NeedsCompilation: no
 
 Package: sikkersone
