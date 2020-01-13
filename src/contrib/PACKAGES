@@ -123,13 +123,13 @@ MD5sum: f386222b7c7eac0bdf4211dba0bde56c
 NeedsCompilation: no
 
 Package: plnr
-Version: 2020.1.9
+Version: 2020.1.13
 Depends: R (>= 3.3.0)
 Imports: data.table, methods, R6, fhi, parallel, future, future.callr,
         future.apply
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: dfd3f7acd554b1ad2e6963fa7a1921cf
+MD5sum: 17d099098ce454c4b2ef2f6d4b968816
 NeedsCompilation: no
 
 Package: sikkersone
