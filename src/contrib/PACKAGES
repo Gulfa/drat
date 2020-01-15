@@ -37,7 +37,7 @@ Imports: data.table, fhidata, glue, dplyr, rlang, stringr, DBI,
         xml2, utils, processx, lme4, epitrix
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: a2f06b15f061f241d620de60a55315e0
+MD5sum: 0534106078e9e2224bf6bc0a4c344ecc
 NeedsCompilation: no
 
 Package: fhi
