@@ -125,11 +125,10 @@ NeedsCompilation: no
 Package: plnr
 Version: 2020.1.17
 Depends: R (>= 3.3.0)
-Imports: data.table, methods, R6, progressr, uuid, parallel, future,
-        future.callr, future.apply
+Imports: data.table, methods, R6, progressr, uuid, foreach
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 6110b2ecdd103a1f0c6ac01611aafa59
+MD5sum: d08d7d2976a655e43d4bcb164f78bca6
 NeedsCompilation: no
 
 Package: sikkersone
