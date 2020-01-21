@@ -128,7 +128,7 @@ Depends: R (>= 3.3.0)
 Imports: data.table, methods, R6, progressr, uuid, foreach
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 9a646ee33f94578b2190ada62038d2ec
+MD5sum: 5a9e9e4d973ee64644d3ced196eb2054
 NeedsCompilation: no
 
 Package: sikkersone
