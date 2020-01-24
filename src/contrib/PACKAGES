@@ -123,12 +123,12 @@ MD5sum: f386222b7c7eac0bdf4211dba0bde56c
 NeedsCompilation: no
 
 Package: plnr
-Version: 2020.1.22
+Version: 2020.1.24
 Depends: R (>= 3.3.0)
-Imports: data.table, methods, R6, progressr, uuid, foreach
-Suggests: testthat, knitr, rmarkdown
+Imports: data.table, methods, R6, uuid, foreach
+Suggests: testthat, knitr, rmarkdown, progressr
 License: GPL-3
-MD5sum: c993dabbbc75312288514c92b305e369
+MD5sum: b8b72e6407606d3a2fc6c8edad928c26
 NeedsCompilation: no
 
 Package: sikkersone
