@@ -64,12 +64,12 @@ MD5sum: 95aeaa6734ad9990d0753b7903a644ee
 NeedsCompilation: no
 
 Package: fhiplot
-Version: 2020.1.6
+Version: 2020.1.27
 Depends: R (>= 3.3.0)
 Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
-MD5sum: e2c4839cc9ebb2a945efc6c446a2e628
+MD5sum: c90f404bc800bad5fd0ffb6570715343
 NeedsCompilation: no
 
 Package: flumomo
