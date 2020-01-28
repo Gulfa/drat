@@ -69,7 +69,7 @@ Depends: R (>= 3.3.0)
 Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
-MD5sum: d43d1b489d5d2b1cf6ba6a43c281b46f
+MD5sum: 14828b9839ff713ea8321fa81e598f53
 NeedsCompilation: no
 
 Package: flumomo
