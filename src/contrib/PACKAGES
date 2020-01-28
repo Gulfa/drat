@@ -166,7 +166,7 @@ Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, fhidata
 LinkingTo: Rcpp, RcppProgress
 Suggests: testthat, knitr, ggplot2, glue, rmarkdown
 License: GPL-3
-MD5sum: 72e1bf246be91108af3918843b4cd216
+MD5sum: 87bf32ed50159e39c5e7071f87b53f9b
 NeedsCompilation: yes
 
 Package: spulsconnect
