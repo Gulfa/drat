@@ -60,7 +60,7 @@ Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2, sf,
         methods
 License: GPL-3
-MD5sum: 9d1d0674b1c88e51cd813a2106cac6de
+MD5sum: 7378dc416ad2f3cd5ae5a88658d927d0
 NeedsCompilation: no
 
 Package: fhiplot
