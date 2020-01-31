@@ -159,14 +159,16 @@ MD5sum: 9ff9bbded1cbfa3f6f0dcd6a827e2cff
 NeedsCompilation: no
 
 Package: spread
-Version: 2020.1.30
+Version: 2020.1.31
 Depends: R (>= 3.5.0)
 Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, fhidata
-        (>= 2019.1.23), stringr, readxl, zoo, foreach, magrittr
+        (>= 2019.1.23), stringr, readxl, matrixStats, zoo, foreach,
+        magrittr
 LinkingTo: Rcpp, RcppProgress
-Suggests: testthat, knitr, ggplot2, glue, rmarkdown
+Suggests: testthat, knitr, ggplot2, glue, rmarkdown, distcrete,
+        HDInterval, epitrix
 License: GPL-3
-MD5sum: 4f0e8322a086ed76f0854709dab3654f
+MD5sum: 9a2e94eae40033671c885fb3fe441acc
 NeedsCompilation: yes
 
 Package: spulsconnect
