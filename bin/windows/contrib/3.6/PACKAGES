@@ -1,0 +1,7 @@
+Package: fhidata
+Version: 2020.2.10
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper, rgeos, mapproj, ggplot2, stringr, glue,
+            lubridate, readxl, zoo, crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2, sf, methods
+License: GPL-3
