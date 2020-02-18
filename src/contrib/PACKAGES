@@ -28,6 +28,15 @@ License: GPL-3
 MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
+Package: drathelper
+Version: 2020.2.18
+Depends: R (>= 3.3.0)
+Imports: drat, devtools
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: 5739a1fdc9fa2ed619431cf3f1ef0e11
+NeedsCompilation: no
+
 Package: fd
 Version: 2020.02.04
 Depends: R (>= 3.5.0)
