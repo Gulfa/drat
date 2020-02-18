@@ -34,7 +34,7 @@ Depends: R (>= 3.3.0)
 Imports: drat, devtools
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
-MD5sum: 5739a1fdc9fa2ed619431cf3f1ef0e11
+MD5sum: 2e5e48d879c9bfb622a2b83308c9123f
 NeedsCompilation: no
 
 Package: fd
