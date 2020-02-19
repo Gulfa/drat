@@ -29,12 +29,13 @@ MD5sum: 6c8dcc0584cebd44ab63ec24480b0980
 NeedsCompilation: no
 
 Package: drathelper
-Version: 2020.2.18
+Version: 2020.2.19
 Depends: R (>= 3.3.0)
 Imports: drat, devtools
-Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+Suggests: testthat, knitr, rmarkdown, data.table, glue, httr, huxtable,
+        miniCRAN, stringr
 License: GPL-3
-MD5sum: c54837d39acf9fa5583e6eb2acface4f
+MD5sum: 3449ec8767f39e5372d6214db7bc722d
 NeedsCompilation: no
 
 Package: fd
