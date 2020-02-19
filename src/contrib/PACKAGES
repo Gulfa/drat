@@ -35,7 +35,7 @@ Imports: drat, devtools
 Suggests: testthat, knitr, rmarkdown, data.table, glue, httr, huxtable,
         miniCRAN, stringr
 License: GPL-3
-MD5sum: f5696e8ab0b2e32eba9dc41f5da88762
+MD5sum: 833ecc0b97a10c7a45571f10a79ec5d8
 NeedsCompilation: no
 
 Package: fd
