@@ -143,12 +143,12 @@ MD5sum: f1b27d50f745e54497b298a4ab202393
 NeedsCompilation: no
 
 Package: sikkersone
-Version: 2019.6.25
+Version: 2020.2.19
 Depends: R (>= 3.5.0)
 Imports: data.table, RODBC, utils
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 54d731d8255335a2453c0a4f0ed19609
+MD5sum: bf2f12ddbeb71e96c70f0f1bd4a83b5f
 NeedsCompilation: no
 
 Package: sm
