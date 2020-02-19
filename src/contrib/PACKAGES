@@ -39,7 +39,7 @@ MD5sum: 833ecc0b97a10c7a45571f10a79ec5d8
 NeedsCompilation: no
 
 Package: fd
-Version: 2020.02.04
+Version: 2020.02.19
 Depends: R (>= 3.5.0)
 Imports: data.table, fhidata, glue, dplyr, rlang, stringr, DBI,
         methods, R6, magrittr, stats, fs, odbc, uuid, devtools,
@@ -47,7 +47,7 @@ Imports: data.table, fhidata, glue, dplyr, rlang, stringr, DBI,
         xml2, utils, processx, lme4, epitrix
 Suggests: testthat, mockery, knitr
 License: GPL-3
-MD5sum: 7687508e2a618ac116686949fd7b88f5
+MD5sum: 55c28cbf1b774785e6d79efe8513ac57
 NeedsCompilation: no
 
 Package: fhi
