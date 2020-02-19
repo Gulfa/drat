@@ -83,12 +83,12 @@ MD5sum: 91b8b88eadc637cdca6f825c60eaa6c6
 NeedsCompilation: no
 
 Package: flumomo
-Version: 2019.12.5
+Version: 2020.2.19
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, ISOweek, utils, stats
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: b8f80a0269870355e771d573537a000e
+MD5sum: 567932397dee83045628c4271b977a99
 NeedsCompilation: no
 
 Package: HRHRpal
