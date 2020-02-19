@@ -1,10 +1,10 @@
 Package: attrib
-Version: 2020.1.1
+Version: 2020.2.19
 Depends: R (>= 3.5.0)
 Imports: data.table, glue, pbs, dlnm, fhi, mvmeta, tsModel
 Suggests: testthat, knitr, rmarkdown, FluMoDL
 License: GPL-3
-MD5sum: 244d2f9275e8425630510dca5bb9dc4c
+MD5sum: 90604d496c73ad7d35c77f378f474825
 NeedsCompilation: no
 
 Package: brain
