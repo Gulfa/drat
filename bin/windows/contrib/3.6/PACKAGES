@@ -23,6 +23,12 @@ Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: GPL-3
 
+Package: org
+Version: 2020.2.20
+Depends: R (>= 3.3.0)
+Suggests: testthat, knitr, rmarkdown, rstudioapi
+License: GPL-3
+
 Package: plnr
 Version: 2020.1.29
 Depends: R (>= 3.3.0)
