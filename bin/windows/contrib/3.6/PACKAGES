@@ -8,13 +8,12 @@ Suggests: testthat, knitr, usethis
 License: GPL-3
 
 Package: fhidata
-Version: 2020.2.11
+Version: 2020.2.20
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
-        crayon, fs, utils, sp, forcats, ncdf4, SDMTools, reshape2, sf,
-        methods
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
 License: GPL-3
 
 Package: fhiplot
