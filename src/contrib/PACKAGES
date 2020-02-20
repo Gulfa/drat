@@ -103,6 +103,14 @@ License: GPL-3
 MD5sum: ff983aa032d5ad929b86bfaa65d0bf57
 NeedsCompilation: no
 
+Package: org
+Version: 2020.2.20
+Depends: R (>= 3.3.0)
+Suggests: testthat, knitr, rmarkdown, rstudioapi
+License: GPL-3
+MD5sum: 599b2ec0a45f7bd228dbb51cd3927f66
+NeedsCompilation: no
+
 Package: plnr
 Version: 2020.1.29
 Depends: R (>= 3.3.0)
