@@ -112,13 +112,13 @@ MD5sum: 599b2ec0a45f7bd228dbb51cd3927f66
 NeedsCompilation: no
 
 Package: plnr
-Version: 2020.1.29
+Version: 2020.2.21
 Depends: R (>= 3.3.0)
-Imports: data.table, methods, R6, uuid, foreach
-Suggests: testthat, knitr, rmarkdown, progressr, huxtable, ggplot2,
-        glue, readxl
+Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
+        2020.2.18), usethis, huxtable
+Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
 License: GPL-3
-MD5sum: f1b27d50f745e54497b298a4ab202393
+MD5sum: 98d378e5c9f3031efab787c6c811a6b3
 NeedsCompilation: no
 
 Package: sikkersone
