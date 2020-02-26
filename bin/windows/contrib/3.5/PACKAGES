@@ -8,7 +8,7 @@ Suggests: testthat, knitr, usethis
 License: GPL-3
 
 Package: fhidata
-Version: 2020.2.20
+Version: 2020.2.26
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
