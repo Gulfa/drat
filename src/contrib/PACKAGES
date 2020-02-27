@@ -104,11 +104,11 @@ MD5sum: ff983aa032d5ad929b86bfaa65d0bf57
 NeedsCompilation: no
 
 Package: org
-Version: 2020.2.20
+Version: 2020.2.27
 Depends: R (>= 3.3.0)
 Suggests: testthat, knitr, rmarkdown, rstudioapi
 License: GPL-3
-MD5sum: 599b2ec0a45f7bd228dbb51cd3927f66
+MD5sum: c8aa68b968da73615c2f1a778b33b42c
 NeedsCompilation: no
 
 Package: plnr
