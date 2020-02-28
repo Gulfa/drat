@@ -48,3 +48,11 @@ Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval,
         epitrix
 License: GPL-3
 Archs: i386, x64
+
+Package: spulsconnect
+Version: 2020.2.28
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
+        fhidata
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
