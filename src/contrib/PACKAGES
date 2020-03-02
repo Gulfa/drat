@@ -15,7 +15,7 @@ Imports: data.table, fhidata, magrittr, fhi, fhiplot, fs, glue,
         dbplyr, dplyr, stats, utils
 Suggests: knitr, rmarkdown
 License: GPL-3
-MD5sum: 43bb1a30945253bd61d820a87456bfaa
+MD5sum: e78c709f6a29bfec1cd692705a460461
 NeedsCompilation: no
 
 Package: brain
