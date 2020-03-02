@@ -7,6 +7,17 @@ License: GPL-3
 MD5sum: 90604d496c73ad7d35c77f378f474825
 NeedsCompilation: no
 
+Package: autosurveillance
+Version: 2020.3.2
+Depends: R (>= 3.5.0)
+Imports: data.table, fhidata, magrittr, fhi, fhiplot, fs, glue,
+        writexl, ggplot2, readxl, stringr, lubridate, RODBC, org, plnr,
+        dbplyr, dplyr, stats, utils
+Suggests: knitr, rmarkdown
+License: GPL-3
+MD5sum: 5285914a9772bcdeda8c5cdbeec85010
+NeedsCompilation: no
+
 Package: brain
 Version: 2020.02.19
 Depends: R (>= 3.4.0)
