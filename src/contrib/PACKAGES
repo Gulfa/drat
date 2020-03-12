@@ -184,7 +184,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
         xlsx, RODBC
 Suggests: testthat, knitr, rmarkdown, mem
 License: GPL-3
-MD5sum: cf429dca1d4f699ccdfab7963ba59a9e
+MD5sum: 7773bbec022ce448bb3d5a10f60be06b
 NeedsCompilation: no
 
 Package: sykdomspulslog
