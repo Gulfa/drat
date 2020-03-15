@@ -19,14 +19,14 @@ MD5sum: e78c709f6a29bfec1cd692705a460461
 NeedsCompilation: no
 
 Package: brain
-Version: 2020.02.19
+Version: 2020.03.15
 Depends: R (>= 3.4.0)
 Imports: data.table, R6, fd, fhidata, attrib, ggplot2, magrittr, dplyr,
         fhi, glue, zoo, lubridate, FluMoDL, fancycut, flumomo, readxl,
         stringr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 5b8bed0b082fb63cb14f491efd8d6489
+MD5sum: 1e65e1d62b359471c1721064b62186a4
 NeedsCompilation: no
 
 Package: drathelper
