@@ -206,13 +206,13 @@ MD5sum: 00d6a7cb47315f81ee696882344380e8
 NeedsCompilation: no
 
 Package: ui
-Version: 2020.03.03
+Version: 2020.03.15
 Depends: R (>= 3.5.0)
 Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
         fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls,
         ggplot2, readxl, stringr, grDevices, cowplot, ggpubr,
-        lubridate, xlsx, magick, car, ggrepel, lemon, readr
+        lubridate, xlsx, magick, car, ggrepel, lemon, readr, scales
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 511c84bb7e5a34af76b7f6faa3d3ed09
+MD5sum: fd5bd31ce17bd536c9b2d4a93ac807a1
 NeedsCompilation: no
