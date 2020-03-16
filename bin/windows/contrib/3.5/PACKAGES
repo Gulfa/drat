@@ -17,7 +17,7 @@ Suggests: testthat, knitr, usethis
 License: GPL-3
 
 Package: fhidata
-Version: 2020.2.26
+Version: 2020.3.15
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
@@ -47,7 +47,7 @@ Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
 License: GPL-3
 
 Package: spread
-Version: 2020.3.14
+Version: 2020.3.16
 Depends: R (>= 3.5.0)
 Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, ggplot2,
         fhidata (>= 2019.1.23), stringr, readxl, matrixStats, zoo,
