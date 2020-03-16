@@ -160,7 +160,7 @@ LinkingTo: Rcpp, RcppProgress
 Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval,
         epitrix
 License: GPL-3
-MD5sum: 96e8c5ad51cece85c3d9624e058d7fa6
+MD5sum: 68697338e6b4b3a716c2f14d2b8d40a8
 NeedsCompilation: yes
 
 Package: spulsconnect
