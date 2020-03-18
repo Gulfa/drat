@@ -26,7 +26,7 @@ Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
 License: GPL-3
 
 Package: fhiplot
-Version: 2020.3.5
+Version: 2020.3.18
 Depends: R (>= 3.3.0)
 Imports: ggplot2, data.table, stringr, glue, scales, huxtable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
