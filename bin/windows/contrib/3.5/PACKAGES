@@ -62,6 +62,6 @@ Package: spulsconnect
 Version: 2020.3.19
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
-        fhidata, DBI, odbc, dplyr
+        fhidata, DBI, odbc, dplyr, dbplyr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
