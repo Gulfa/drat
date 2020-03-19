@@ -59,9 +59,9 @@ License: GPL-3
 Archs: i386, x64
 
 Package: spulsconnect
-Version: 2020.3.6
+Version: 2020.3.19
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
-        fhidata
+        fhidata, DBI, odbc, dplyr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
