@@ -167,10 +167,10 @@ Package: spulsconnect
 Version: 2020.3.19
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
-        fhidata, DBI, odbc, dplyr
+        fhidata, DBI, odbc, dplyr, dbplyr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 46fb81238550a890a36ef9e72a034dfe
+MD5sum: 99915b390b1f29409c6f7e4357b4ccf4
 NeedsCompilation: no
 
 Package: sykdomspuls
