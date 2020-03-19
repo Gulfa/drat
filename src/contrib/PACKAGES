@@ -164,13 +164,13 @@ MD5sum: b37105bd280a95a87efad1baa2a98a91
 NeedsCompilation: yes
 
 Package: spulsconnect
-Version: 2020.3.6
+Version: 2020.3.19
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
-        fhidata
+        fhidata, DBI, odbc, dplyr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: d7e5689a4e5e72ba937350d82cf7f612
+MD5sum: 46fb81238550a890a36ef9e72a034dfe
 NeedsCompilation: no
 
 Package: sykdomspuls
