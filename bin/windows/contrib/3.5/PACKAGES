@@ -39,7 +39,7 @@ Suggests: testthat, knitr, rmarkdown, rstudioapi
 License: GPL-3
 
 Package: plnr
-Version: 2020.3.2
+Version: 2020.4.3
 Depends: R (>= 3.3.0)
 Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
         2020.2.18), usethis, huxtable
