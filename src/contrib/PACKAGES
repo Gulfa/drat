@@ -123,13 +123,13 @@ MD5sum: c8aa68b968da73615c2f1a778b33b42c
 NeedsCompilation: no
 
 Package: plnr
-Version: 2020.3.2
+Version: 2020.4.3
 Depends: R (>= 3.3.0)
 Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
         2020.2.18), usethis, huxtable
 Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
 License: GPL-3
-MD5sum: 5a97d1789a7a59834339fb443afe3055
+MD5sum: ea4bfae977c68e4e6c93d6e9e8d854d6
 NeedsCompilation: no
 
 Package: sikkersone
