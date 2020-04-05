@@ -170,7 +170,7 @@ Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
         fhidata, DBI, odbc, dplyr, dbplyr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: bf2bcd35fe6aa57852b1bac653c56138
+MD5sum: 9643968346cac068652c51cfee95a215
 NeedsCompilation: no
 
 Package: sykdomspuls
